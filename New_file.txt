@@ -1,1 +1,4 @@
 new strings
+new strings from feature branchs
+string 1 
+string 2
