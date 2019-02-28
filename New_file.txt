@@ -1,4 +1,8 @@
 new strings
 new string from master branch
+new strings from feature branchs
 branch 1
+string 1 
 branch 2
+string 2
+
